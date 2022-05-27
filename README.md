@@ -44,3 +44,7 @@ INFO:     Started server process [22546]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 ```
+
+# References and credits
+
+[Build a URL Shortener With FastAPI and Python](https://realpython.com/build-a-python-url-shortener-with-fastapi/?utm_source=notification_summary&utm_medium=email&utm_campaign=2022-05-18)
