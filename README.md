@@ -45,7 +45,7 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 ```
 
-5. Go to [docs](http://localhost:8000/docs) to see the automatic interactive API documentation (provided by Swagger UI):
+5. Go to [docs](http://localhost:8000/docs) to see the automatic interactive API documentation (provided by Swagger UI)
 
 # References and credits
 
